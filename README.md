@@ -2,13 +2,11 @@
 
 Ce projet est une **Application simple** qui permet à un utilisateur de penser à un nombre intérieurement compris entre 1-15 et ensuite par un coup de miracle l'application devine exactement le nombre qui à été pensé par l'utilisateur.
 
----
 
 # 🕹️ Fonctionnalités de l'application
 - Afficher une suite de nombres différents dans 4 blocs précis sur l'interface.
 - Afficher le nombre deviner par l'utilisateur.
 
----
 
 # 📖 Comment utiliser l'application
 - Clonez ou téléchargez ce dépôt.
@@ -18,7 +16,6 @@ Ce projet est une **Application simple** qui permet à un utilisateur de penser 
 - Sélectionnez parmis les 4 blocs de nombre affichés, les bloc(s) contenant votre nombre.
 - Et afin regardez sur l'écran votre numbre exact sera affiché.
 
----
 
 # 🖥️ Technologies utilisées
 - HTML
